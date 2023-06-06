@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48837001205",
+    "project_id": "chatbox-backend",
+    "storage_bucket": "chatbox-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48837001205:android:1a34c2fcc18201c948aabc",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48837001205-n7u6kr7f81u9scff7n4u71vc2l3vu4fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5IOixu0jk1JLukVaII6IAd8T71lUG1CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48837001205-n7u6kr7f81u9scff7n4u71vc2l3vu4fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
